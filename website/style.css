@@ -1,11 +1,8 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
+  font-size: 2em;
 }
-#myButton {
-  font-size: 3em;
-  padding: 5px 25px;
-}
-#myLabel {
-  font-size: 3em;
+#mySubmit {
+  font-size: 1em;
+  margin-left: 1em;
 }
